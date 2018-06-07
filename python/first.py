@@ -1,3 +1,3 @@
-a = input()
-for b in range(1, 10):
-    print(int(a)*int(b), end=' ')
+print('='*50)
+print('Made in Korea')
+print('='*50)
